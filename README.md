@@ -1,1 +1,1 @@
-# javascript example
+# Javascript example
