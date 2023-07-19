@@ -1,2 +1,1 @@
-# je
-javascript example
+# javascript example
